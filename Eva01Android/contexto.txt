@@ -1,0 +1,116 @@
+Student Timer es una innovadora aplicación móvil diseñada específicamente para ayudar a los estudiantes a organizar su vida académica de manera eficiente. La aplicación proporciona a los usuarios una plataforma intuitiva y completa para gestionar sus horarios de estudio, fechas importantes y evaluaciones pendientes, todo en un solo lugar.
+
+Descripción: Student Timer es una innovadora aplicación móvil diseñada específicamente para ayudar a los estudiantes a organizar su vida académica de manera eficiente. La aplicación proporciona a los usuarios una plataforma intuitiva y completa para gestionar sus horarios de estudio, fechas importantes y evaluaciones pendientes, todo en un solo lugar.
+Calendario de Estudio Personalizado: Los usuarios pueden crear fácilmente un calendario de estudio personalizado donde pueden ingresar las materias que están tomando, las fechas y horarios de sus clases y cualquier otro compromiso académico. La aplicación genera automáticamente un horario de estudio óptimo, teniendo en cuenta la disponibilidad de tiempo del usuario.
+
+Gestión de Materias y Evaluaciones: Los usuarios pueden agregar sus materias y cursos a la aplicación, incluyendo detalles como el nombre del curso, el nombre del profesor y la ubicación de la clase. Además, pueden ingresar las fechas de evaluación y plazos de entrega de proyectos. La aplicación les proporciona recordatorios automáticos para estas fechas importantes.
+
+Alertas Personalizadas: Student Timer permite a los estudiantes establecer recordatorios personalizados para las evaluaciones y proyectos. Pueden configurar la aplicación para que les avise con anticipación sobre las fechas de exámenes y entregas de trabajos, lo que les ayuda a planificar su tiempo de estudio de manera efectiva.
+
+Seguimiento del Progreso: La aplicación permite a los estudiantes realizar un seguimiento de su progreso académico al registrar sus calificaciones y notas en cada materia. Esto les proporciona una visión general de su rendimiento y les ayuda a identificar áreas en las que pueden mejorar.
+
+Sincronización Movil: Student Timer se sincroniza con tu telefono movil , lo que permite a los estudiantes acceder a su horario y datos desde cualquier lugar con tu telefono movil.
+
+*Mejora de la gestión del tiempo y la organización.
+*Reducción del estrés y la ansiedad relacionados con las evaluaciones.
+*Mayor rendimiento académico y resultados más satisfactorios.
+
+
+
+CRUD (Crear, Leer, Actualizar y Borrar) basado en la aplicación móvil Student Timer y sus características clave:
+
+Entidad: Materias y Cursos
+
+Crear (Create):
+
+Los usuarios pueden agregar nuevas materias y cursos a su perfil.
+Para cada materia, pueden ingresar el nombre del curso, el nombre del profesor y la ubicación de la clase.
+Leer (Read):
+
+Los usuarios pueden ver una lista de todas las materias y cursos que han agregado, junto con los detalles asociados.
+Actualizar (Update):
+
+Los usuarios pueden editar la información de las materias o cursos existentes si hay cambios en la programación o el profesor.
+Pueden actualizar la información de ubicación si la clase cambia de lugar.
+Borrar (Delete):
+
+Los usuarios pueden eliminar materias o cursos de su lista si ya no están inscritos en ellos.
+Entidad: Calendario de Estudio Personalizado
+
+Crear (Create):
+
+Los usuarios pueden crear un nuevo horario de estudio personalizado para cada materia.
+Pueden establecer los días de la semana, las horas de inicio y finalización, y la frecuencia de estudio.
+Leer (Read):
+
+Los usuarios pueden ver su calendario de estudio personalizado con todos los horarios planificados.
+Pueden ver qué materias deben estudiar en un momento dado.
+Actualizar (Update):
+
+Los usuarios pueden realizar cambios en su calendario de estudio si necesitan ajustar sus horarios debido a cambios en sus compromisos académicos.
+Borrar (Delete):
+
+Los usuarios pueden eliminar horarios de estudio si ya no son relevantes o necesarios.
+Entidad: Evaluaciones y Tareas
+
+Crear (Create):
+
+Los usuarios pueden agregar nuevas evaluaciones y tareas relacionadas con una materia específica.
+Pueden ingresar detalles como el nombre de la evaluación o tarea, la fecha de vencimiento y una breve descripción.
+Leer (Read):
+
+Los usuarios pueden ver una lista de todas las evaluaciones y tareas pendientes, organizadas por materia.
+Pueden ver detalles completos de cada evaluación o tarea.
+Actualizar (Update):
+
+Los usuarios pueden marcar una evaluación o tarea como completada cuando la hayan terminado.
+Pueden editar la fecha de vencimiento o la descripción si es necesario.
+Borrar (Delete):
+
+Los usuarios pueden eliminar evaluaciones o tareas de la lista cuando ya no sean relevantes o necesarias.
+Entidad: Alertas Personalizadas
+
+Crear (Create):
+
+Los usuarios pueden configurar alertas personalizadas para evaluaciones y tareas.
+Pueden definir cuándo desean recibir recordatorios antes de la fecha de vencimiento.
+Leer (Read):
+
+Los usuarios pueden ver una lista de todas las alertas programadas y las fechas de recordatorio asociadas.
+Actualizar (Update):
+
+Los usuarios pueden ajustar la configuración de las alertas si desean cambiar el tiempo de anticipación.
+Borrar (Delete):
+
+Los usuarios pueden eliminar alertas si ya no desean recibir recordatorios para una evaluación o tarea en particular.
+Entidad: Seguimiento del Progreso
+
+Crear (Create):
+
+Los usuarios pueden registrar sus calificaciones y notas en cada materia después de recibir los resultados de sus evaluaciones.
+Leer (Read):
+
+Los usuarios pueden ver un registro de su progreso académico, incluyendo las calificaciones obtenidas en cada evaluación.
+Actualizar (Update):
+
+Los usuarios pueden editar las calificaciones y notas si se han cometido errores o si se reciben revisiones.
+Borrar (Delete):
+
+No se permite el borrado de registros de progreso, ya que son datos históricos importantes.
+Entidad: Sincronización Móvil
+
+Crear (Create):
+
+La sincronización móvil se configura automáticamente cuando los usuarios instalan la aplicación en su teléfono móvil.
+Leer (Read):
+
+Los usuarios pueden acceder a su calendario, materias, evaluaciones, tareas y alertas desde cualquier lugar con la aplicación móvil.
+Actualizar (Update):
+
+No se requieren actualizaciones manuales para la sincronización móvil, ya que es un proceso automático.
+Borrar (Delete):
+
+Los usuarios pueden desvincular su cuenta de la aplicación móvil si ya no desean utilizar la función de sincronización móvil.
+Este CRUD permite a los usuarios de Univestudy gestionar eficazmente sus materias, horarios de estudio, evaluaciones, tareas y alertas personalizadas, lo que les ayuda a mejorar su rendimiento académico y mantenerse organizados en su viaje educativo.
+
+	Student Timer
